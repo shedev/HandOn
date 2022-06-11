@@ -41,8 +41,8 @@
                 _ => throw new ArgumentException($"Not supported number of visitors: {visitorCount}", nameof(visitorCount)),
             };
 
-            //Logical pattern
-            Console.WriteLine($"Console pattern - {Classify(1)}");
+            //Relational pattern
+            Console.WriteLine($"Relational pattern - {Classify(1)}");
 
             static string Classify(double measurement) => measurement switch
             {
@@ -50,6 +50,19 @@
                 > 10.0 => "Too high",
                 double.NaN => "Unknown",
                 _ => "Acceptable",
+            };
+
+            //Logical  pattern
+            Console.WriteLine($"Logical pattern - {Logical(1)}");        
+
+            static string Logical(double measurement) => measurement switch
+            {
+                < -40.0 => "Too low",
+                >= -40.0 and < 0 => "Low",
+                >= 0 and < 10.0 => "Acceptable",
+                >= 10.0 and < 20.0 => "High",
+                >= 20.0 => "Too high",
+                double.NaN => "Unknown",
             };
 
             //Property  pattern
@@ -71,7 +84,7 @@
         };
 
 
-            //Positional  pattern
+            //var  pattern
             Console.WriteLine($"var  pattern - {IsAcceptable(6, 4)}");
             static bool IsAcceptable(int id, int absLimit) =>
     SimulateDataFetch(id) is var results

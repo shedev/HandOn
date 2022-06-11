@@ -12,3 +12,17 @@ C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.csproj
 C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.dll
 C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.pdb
 C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.genruntimeconfig.cache
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\bin\Debug\netcoreapp3.1\Patterns.exe
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\bin\Debug\netcoreapp3.1\Patterns.deps.json
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.json
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.dev.json
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\bin\Debug\netcoreapp3.1\Patterns.dll
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\bin\Debug\netcoreapp3.1\Patterns.pdb
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.csproj.AssemblyReference.cache
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfoInputs.cache
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.dll
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.pdb
+C:\Users\shedev\workplace\New folder (3)\HandOn\Pattern\obj\Debug\netcoreapp3.1\Patterns.genruntimeconfig.cache
