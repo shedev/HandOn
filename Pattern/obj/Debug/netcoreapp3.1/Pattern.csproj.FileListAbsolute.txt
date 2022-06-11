@@ -1,0 +1,14 @@
+C:\Users\shedev\workplace\HandOn\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+C:\Users\shedev\workplace\HandOn\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+C:\Users\shedev\workplace\HandOn\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+C:\Users\shedev\workplace\HandOn\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+C:\Users\shedev\workplace\HandOn\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\shedev\workplace\HandOn\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.AssemblyReference.cache
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\shedev\workplace\HandOn\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cNdrZ6Tu2ehSj+SOUGKqNih0n0zgd0+GHpgCWnbKv8dnU+ND7FrZih2PnL3ZaGl7BmFbAO4qAywTtOghfs2hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shedev\\workplace\\New folder (3)\\HandOn\\Pattern\\Patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shedev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
